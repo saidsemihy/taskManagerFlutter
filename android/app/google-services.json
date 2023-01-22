@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1098074934066",
+    "project_id": "istakip-90248",
+    "storage_bucket": "istakip-90248.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1098074934066:android:fba3537f78db39510d652b",
+        "android_client_info": {
+          "package_name": "com.example.taskmanagmentapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1098074934066-pv99ih6pci1qi4ljchu39lpjhdcsg99d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpIEoTQJXAV01NxC4MetI05ZtBqbyWJ-g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1098074934066-pv99ih6pci1qi4ljchu39lpjhdcsg99d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
