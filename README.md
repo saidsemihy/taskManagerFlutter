@@ -19,7 +19,7 @@ https://drive.google.com/file/d/1gVBPYsLKKEiYr-IaGS8Kq7JsiwwVfXBv/view?usp=shari
 <img src="Uygulama%20Resimleri/11.png" width="300" height="550"></img>
 <img src="Uygulama%20Resimleri/12.png" width="300" height="550"></img>
 <img src="Uygulama%20Resimleri/13.png" width="300" height="550"></img>
-<img src="Uygulama%20Resimleri/14.png" width="300" height="550"></img>
+
 
 
 
